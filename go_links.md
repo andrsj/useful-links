@@ -184,6 +184,13 @@
 | ---------------------------------------------------- | ------- | -------------------------------------------------------------- |
 | [MDN Web Docs](https://developer.mozilla.org/en-US/) | Mozilla | Comprehensive web platform documentation (HTML, CSS, JS, HTTP) |
 
+## Awesome Lists
+
+| Resource                              | Description                                            |
+| ------------------------------------- | ------------------------------------------------------ |
+| [Awesome Go](https://awesome-go.com/) | Curated list of Go frameworks, libraries, and software |
+| [Go LibHunt](https://go.libhunt.com/) | Go libraries and tools discovery platform              |
+
 ## Example Repositories
 
 | Repository                                                 | Description                                                                       |

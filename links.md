@@ -127,3 +127,26 @@
 | [System Design Interview](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119)                                           |        | Guide to system design interviews                                              |
 | [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D/) |        | Deep dive into distributed systems and data storage                            |
 | [Google SRE Books](https://sre.google/books/)                                                                                                    | Google | Free SRE books from Google                                                     |
+
+## Awesome Lists
+
+| Resource                                                                             | Stars | Description                                             |
+| ------------------------------------------------------------------------------------ | ----- | ------------------------------------------------------- |
+| [Awesome](https://github.com/sindresorhus/awesome)                                   | 350k+ | Meta-list of awesome lists for all topics               |
+| [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)       | 283k+ | Self-hosted software alternatives                       |
+| [Awesome Python](https://github.com/vinta/awesome-python)                            | 289k+ | Curated list of Python frameworks, libraries, and tools |
+| [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) | 72k+  | ML frameworks, libraries, and software                  |
+| [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)                  | 34k+  | JavaScript libraries, resources, and tools              |
+| [Awesome React](https://github.com/enaqx/awesome-react)                              | 72k+  | React ecosystem resources and libraries                 |
+| [Awesome Vue](https://github.com/vuejs/awesome-vue)                                  | 73k+  | Vue.js components, libraries, and resources             |
+| [Awesome Security](https://github.com/sbilly/awesome-security)                       | 14k+  | Security tools, resources, and references               |
+| [Awesome Big Data](https://github.com/oxnr/awesome-bigdata)                          | 14k+  | Big data frameworks, tools, and resources               |
+| [Awesome Android](https://github.com/JStumpp/awesome-android)                        | 12k+  | Android libraries, tools, and resources                 |
+| [Awesome iOS](https://github.com/vsouza/awesome-ios)                                 | 51k+  | iOS frameworks, libraries, and tools                    |
+| [Awesome Design](https://github.com/gztchan/awesome-design)                          | 16k+  | Design tools, resources, and inspiration                |
+| [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)               | 33k+  | Curated list of awesome lists                           |
+| [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software)   |       | Collection of Linux applications and tools              |
+| [Awesome Linux](https://awesomelinux.com/)                                           |       | Linux resources, tutorials, and news                    |
+| [Awesome DevOps](https://github.com/wmariuss/awesome-devops)                         |       | DevOps tools, resources, and best practices             |
+| [Awesome DevOps (alt)](https://github.com/awesome-soft/awesome-devops)               |       | Another curated DevOps resources list                   |
+| [Awesome Web Development](https://github.com/nepaul/awesome-web-development)         |       | Web development resources and tools                     |

@@ -24,6 +24,7 @@ A collection of useful links for Go developers and software engineers.
 - [Game Development](go_links.md#game-development)
 - [Books](go_links.md#books)
 - [Web & General](go_links.md#web--general)
+- [Awesome Lists](go_links.md#awesome-lists)
 - [Example Repositories](go_links.md#example-repositories)
 
 ## [IT Links](links.md)
@@ -43,3 +44,4 @@ A collection of useful links for Go developers and software engineers.
 - [Networking](links.md#networking)
 - [Tools & Search](links.md#tools--search)
 - [Books](links.md#books)
+- [Awesome Lists](links.md#awesome-lists)
