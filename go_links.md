@@ -34,38 +34,38 @@
 
 ## Performance & Internals
 
-| Resource                                                                                                                                                        | Author    | Description                                                                  |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ---------------------------------------------------------------------------- |
-| [Escape Analysis in Go](https://blog.devgenius.io/escape-analysis-in-go-understanding-memory-optimization-83d29f13fa1d)                                         | DevGenius | How Go decides stack vs heap allocation                                      |
-| [No GC in Go: Benchmarks](https://blog.devgenius.io/no-garbage-collection-in-go-performance-benchmarks-eca6c2fb8307)                                            | DevGenius | Performance gains from reducing garbage collection pressure                  |
-| [Profiling with pprof](https://blog.devgenius.io/profiling-in-go-finding-and-fixing-performance-bottlenecks-868e5c7e929b)                                       | DevGenius | Finding and fixing performance bottlenecks with Go profiler                  |
-| [Profiling Go with pprof](https://dou.ua/forums/topic/54137/) 🇺🇦                                                                                                 | DOU       | Investigating Go programs with pprof                                         |
-| [Go PGO](https://theyahya.com/posts/go-pgo/)                                                                                                                    |           | Profile-Guided Optimization — how to speed up Go binaries with real profiles |
-| [Go Internals Deep Dive](https://meetsoni15.medium.com/unveiling-golangs-hidden-internals-discover-the-hidden-mechanics-that-optimize-performance-8f946f784041) |           | Hidden mechanics that optimize Go performance under the hood                 |
-| [1BRC in Go](https://r2p.dev/b/2024-03-18-1brc-go/)                                                                                                             |           | One Billion Row Challenge — optimizing Go for extreme data processing        |
-| [Memory Allocation in Go](https://nghiant3223.github.io/2025/06/03/memory_allocation_in_go.html)                                                                |           | How Go manages memory allocation internally                                  |
+| Resource                                                                                                                                                        | Author               | Description                                                                  |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ---------------------------------------------------------------------------- |
+| [Escape Analysis in Go](https://blog.devgenius.io/escape-analysis-in-go-understanding-memory-optimization-83d29f13fa1d)                                         | DevGenius (platform) | How Go decides stack vs heap allocation                                      |
+| [No GC in Go: Benchmarks](https://blog.devgenius.io/no-garbage-collection-in-go-performance-benchmarks-eca6c2fb8307)                                            | DevGenius (platform) | Performance gains from reducing garbage collection pressure                  |
+| [Profiling with pprof](https://blog.devgenius.io/profiling-in-go-finding-and-fixing-performance-bottlenecks-868e5c7e929b)                                       | DevGenius (platform) | Finding and fixing performance bottlenecks with Go profiler                  |
+| [Profiling Go with pprof](https://dou.ua/forums/topic/54137/) 🇺🇦                                                                                                 | DOU (platform)       | Investigating Go programs with pprof                                         |
+| [Go PGO](https://theyahya.com/posts/go-pgo/)                                                                                                                    |                      | Profile-Guided Optimization — how to speed up Go binaries with real profiles |
+| [Go Internals Deep Dive](https://meetsoni15.medium.com/unveiling-golangs-hidden-internals-discover-the-hidden-mechanics-that-optimize-performance-8f946f784041) |                      | Hidden mechanics that optimize Go performance under the hood                 |
+| [1BRC in Go](https://r2p.dev/b/2024-03-18-1brc-go/)                                                                                                             |                      | One Billion Row Challenge — optimizing Go for extreme data processing        |
+| [Memory Allocation in Go](https://nghiant3223.github.io/2025/06/03/memory_allocation_in_go.html)                                                                |                      | How Go manages memory allocation internally                                  |
 
 ## Concurrency & Synchronization
 
-| Resource                                                                                        | Author     | Description                                                   |
-| ----------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------- |
-| [Production Concurrency](https://storj.dev/blog/production-concurrency)                         | Storj      | Real-world concurrency patterns from Storj production systems |
-| [Synchronization Primitives](https://hackernoon.com/mastering-synchronization-primitives-in-go) | HackerNoon | Mastering mutexes, channels, and sync primitives in Go        |
-| [Go Scheduling (Part 1)](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html)    | Ardanlabs  | OS scheduler, Go scheduler, and goroutine mechanics explained |
+| Resource                                                                                        | Author                | Description                                                   |
+| ----------------------------------------------------------------------------------------------- | --------------------- | ------------------------------------------------------------- |
+| [Production Concurrency](https://storj.dev/blog/production-concurrency)                         | Storj                 | Real-world concurrency patterns from Storj production systems |
+| [Synchronization Primitives](https://hackernoon.com/mastering-synchronization-primitives-in-go) | HackerNoon (platform) | Mastering mutexes, channels, and sync primitives in Go        |
+| [Go Scheduling (Part 1)](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html)    | Ardanlabs             | OS scheduler, Go scheduler, and goroutine mechanics explained |
 
 ## Testing
 
-| Resource                                                                                                        | Author | Description                                                               |
-| --------------------------------------------------------------------------------------------------------------- | ------ | ------------------------------------------------------------------------- |
-| [Testing Best Practices](https://fossa.com/blog/golang-best-practices-testing-go/)                              | FOSSA  | Comprehensive guide to testing patterns in Go                             |
-| [f-tests vs Table-Driven](https://itnext.io/f-tests-as-a-replacement-for-table-driven-tests-in-go-8814a8b19e9e) | ITNEXT | Alternative to table-driven tests using f-tests pattern                   |
-| [Prefer Real Over Mocks](https://abseil.io/resources/swe-book/html/ch13.html)                                   | Google | Why real components or fakes are better than mocks (from Google SWE book) |
+| Resource                                                                                                        | Author            | Description                                                               |
+| --------------------------------------------------------------------------------------------------------------- | ----------------- | ------------------------------------------------------------------------- |
+| [Testing Best Practices](https://fossa.com/blog/golang-best-practices-testing-go/)                              | FOSSA             | Comprehensive guide to testing patterns in Go                             |
+| [f-tests vs Table-Driven](https://itnext.io/f-tests-as-a-replacement-for-table-driven-tests-in-go-8814a8b19e9e) | ITNEXT (platform) | Alternative to table-driven tests using f-tests pattern                   |
+| [Prefer Real Over Mocks](https://abseil.io/resources/swe-book/html/ch13.html)                                   | Google            | Why real components or fakes are better than mocks (from Google SWE book) |
 
 ## Interfaces & Types
 
 | Resource                                                                              | Author | Description                                                            |
 | ------------------------------------------------------------------------------------- | ------ | ---------------------------------------------------------------------- |
-| [Interfaces Deep Dive](https://tul.github.io/2018/07/23/go-interfaces-deep-dive.html) | TUL    | How Go interfaces work internally — itables, type assertions, and more |
+| [Interfaces Deep Dive](https://tul.github.io/2018/07/23/go-interfaces-deep-dive.html) |        | How Go interfaces work internally — itables, type assertions, and more |
 
 ## Error Handling
 
@@ -180,9 +180,9 @@
 
 ## Web & General
 
-| Resource                                             | Description                                                    |
-| ---------------------------------------------------- | -------------------------------------------------------------- |
-| [MDN Web Docs](https://developer.mozilla.org/en-US/) | Comprehensive web platform documentation (HTML, CSS, JS, HTTP) |
+| Resource                                             | Author  | Description                                                    |
+| ---------------------------------------------------- | ------- | -------------------------------------------------------------- |
+| [MDN Web Docs](https://developer.mozilla.org/en-US/) | Mozilla | Comprehensive web platform documentation (HTML, CSS, JS, HTTP) |
 
 ## Example Repositories
 

@@ -14,14 +14,14 @@
 
 ## API Design & Protocols
 
-| Resource                                                                                 | Author    | Description                                                               |
-| ---------------------------------------------------------------------------------------- | --------- | ------------------------------------------------------------------------- |
-| [Zalando RESTful API Guidelines](https://opensource.zalando.com/restful-api-guidelines/) | Zalando   | Comprehensive REST API design guidelines                                  |
-| [Complete REST Overview](https://dou.ua/forums/topic/50364/) 🇺🇦                           | DOU       | Tips, nuances, and examples of REST API design                            |
-| [ConnectRPC](https://connectrpc.com/)                                                    | Buf       | Simple, HTTP-based RPC framework compatible with gRPC                     |
-| [OAuth 2.0 Simplified](https://aaronparecki.com/oauth-2-simplified/)                     |           | Clear walkthrough of OAuth 2.0 flows and best practices                   |
-| [Aaron Parecki](https://aaronparecki.com/)                                               |           | Director of Identity Standards at Okta — OAuth and IndieWeb expert        |
-| [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)                   | Community | Specification for structured, human- and machine-readable commit messages |
+| Resource                                                                                 | Author         | Description                                                               |
+| ---------------------------------------------------------------------------------------- | -------------- | ------------------------------------------------------------------------- |
+| [Zalando RESTful API Guidelines](https://opensource.zalando.com/restful-api-guidelines/) | Zalando        | Comprehensive REST API design guidelines                                  |
+| [Complete REST Overview](https://dou.ua/forums/topic/50364/) 🇺🇦                           | DOU (platform) | Tips, nuances, and examples of REST API design                            |
+| [ConnectRPC](https://connectrpc.com/)                                                    | Buf            | Simple, HTTP-based RPC framework compatible with gRPC                     |
+| [OAuth 2.0 Simplified](https://aaronparecki.com/oauth-2-simplified/)                     |                | Clear walkthrough of OAuth 2.0 flows and best practices                   |
+| [Aaron Parecki](https://aaronparecki.com/)                                               |                | Director of Identity Standards at Okta — OAuth and IndieWeb expert        |
+| [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)                   | Community      | Specification for structured, human- and machine-readable commit messages |
 
 ## Real-Time Communication
 
