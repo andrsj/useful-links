@@ -1,4 +1,4 @@
-# Curated Links
+# Useful Links
 
 A collection of useful links for Go developers and software engineers.
 
