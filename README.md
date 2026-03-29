@@ -2,7 +2,44 @@
 
 A collection of useful links for Go developers and software engineers.
 
-## Contents
+## [Go Links](go_links.md)
 
-- [Go Links](go_links.md) — Go-specific resources: learning, internals, concurrency, testing, tooling, and more
-- [IT Links](links.md) — General software engineering: architecture, APIs, databases, DevOps, security, and more
+- [Getting Started & Learning](go_links.md#getting-started--learning)
+- [Official Go Blog](go_links.md#official-go-blog)
+- [Project Structure & Modules](go_links.md#project-structure--modules)
+- [Performance & Internals](go_links.md#performance--internals)
+- [Concurrency & Synchronization](go_links.md#concurrency--synchronization)
+- [Testing](go_links.md#testing)
+- [Interfaces & Types](go_links.md#interfaces--types)
+- [Error Handling](go_links.md#error-handling)
+- [HTTP & Services](go_links.md#http--services)
+- [Architecture & Patterns](go_links.md#architecture--patterns)
+- [Go Runtime Source Code](go_links.md#go-runtime-source-code)
+- [Tooling](go_links.md#tooling)
+- [Style Guides](go_links.md#style-guides)
+- [Dave Cheney](go_links.md#dave-cheney)
+- [VictoriaMetrics Blog (Go Series)](go_links.md#victoriametrics-blog-go-series)
+- [Three Dots Labs](go_links.md#three-dots-labs)
+- [Ardanlabs](go_links.md#ardanlabs)
+- [Game Development](go_links.md#game-development)
+- [Books](go_links.md#books)
+- [Web & General](go_links.md#web--general)
+- [Example Repositories](go_links.md#example-repositories)
+
+## [IT Links](links.md)
+
+- [Software Engineering & Architecture](links.md#software-engineering--architecture)
+- [API Design & Protocols](links.md#api-design--protocols)
+- [Real-Time Communication](links.md#real-time-communication)
+- [Web Development](links.md#web-development)
+- [Databases](links.md#databases)
+- [Distributed Systems](links.md#distributed-systems)
+- [DevOps & Docker](links.md#devops--docker)
+- [Security](links.md#security)
+- [Code Review & Engineering Culture](links.md#code-review--engineering-culture)
+- [SRE & System Design](links.md#sre--system-design)
+- [Linux & OS](links.md#linux--os)
+- [Low-Level & CS Fundamentals](links.md#low-level--cs-fundamentals)
+- [Networking](links.md#networking)
+- [Tools & Search](links.md#tools--search)
+- [Books](links.md#books)
