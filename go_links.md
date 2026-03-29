@@ -1,5 +1,30 @@
 # Go Useful Links
 
+- [Go Useful Links](#go-useful-links)
+  - [Getting Started \& Learning](#getting-started--learning)
+  - [Official Go Blog](#official-go-blog)
+  - [Project Structure \& Modules](#project-structure--modules)
+  - [Performance \& Internals](#performance--internals)
+  - [Concurrency \& Synchronization](#concurrency--synchronization)
+  - [Testing](#testing)
+  - [Interfaces \& Types](#interfaces--types)
+  - [Error Handling](#error-handling)
+  - [HTTP \& Services](#http--services)
+  - [Architecture \& Patterns](#architecture--patterns)
+  - [Go Runtime Source Code](#go-runtime-source-code)
+  - [Tooling](#tooling)
+  - [Style Guides](#style-guides)
+  - [Dave Cheney](#dave-cheney)
+  - [VictoriaMetrics Blog (Go Series)](#victoriametrics-blog-go-series)
+  - [Three Dots Labs](#three-dots-labs)
+  - [Ardanlabs](#ardanlabs)
+  - [Game Development](#game-development)
+  - [Books](#books)
+  - [Web \& General](#web--general)
+  - [Awesome Lists](#awesome-lists)
+  - [Example Repositories](#example-repositories)
+
+
 ## Getting Started & Learning
 
 | Resource                                                                                | Author      | Description                                                           |

@@ -1,5 +1,24 @@
 # Useful IT Links
 
+- [Useful IT Links](#useful-it-links)
+  - [Software Engineering \& Architecture](#software-engineering--architecture)
+  - [API Design \& Protocols](#api-design--protocols)
+  - [Real-Time Communication](#real-time-communication)
+  - [Web Development](#web-development)
+  - [Databases](#databases)
+  - [Distributed Systems](#distributed-systems)
+  - [DevOps \& Docker](#devops--docker)
+  - [Security](#security)
+  - [Code Review \& Engineering Culture](#code-review--engineering-culture)
+  - [SRE \& System Design](#sre--system-design)
+  - [Linux \& OS](#linux--os)
+  - [Low-Level \& CS Fundamentals](#low-level--cs-fundamentals)
+  - [Networking](#networking)
+  - [Tools \& Search](#tools--search)
+  - [Books](#books)
+  - [Awesome Lists](#awesome-lists)
+
+
 ## Software Engineering & Architecture
 
 | Resource                                                                                                                                                                    | Author          | Description                                                                 |
