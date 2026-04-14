@@ -27,20 +27,22 @@
 
 ## Getting Started & Learning
 
-| Resource                                                                                | Author      | Description                                                           |
-| --------------------------------------------------------------------------------------- | ----------- | --------------------------------------------------------------------- |
-| [Go Documentation](https://go.dev/doc/)                                                 | Go Team     | Official documentation hub — tutorials, references, and guides        |
-| [Go by Example](https://gobyexample.com/)                                               |             | Hands-on introduction to Go with annotated code examples              |
-| [Effective Go](https://go.dev/doc/effective_go)                                         | Go Team     | Official guide to writing clear, idiomatic Go code                    |
-| [Go Tour (Ardanlabs)](https://tour.ardanlabs.com/tour/eng/list)                         | Ardanlabs   | Interactive tour covering Go fundamentals with exercises              |
-| [Practical Go Lessons](https://www.practical-go-lessons.com/)                           |             | Free online book with 41 chapters covering Go from basics to advanced |
-| [Go Roadmap](https://roadmap.sh/golang)                                                 | roadmap.sh  | Step-by-step learning path for Go developers                          |
-| [YourBasic Go](https://yourbasic.org/golang/)                                           |             | Collection of concise Go tutorials and best practices                 |
-| [100 Go Mistakes](https://100go.co/)                                                    |             | Common Go mistakes and how to avoid them (companion site to the book) |
-| [Go Cheatsheet](https://devhints.io/go)                                                 | devhints.io | Quick reference cheatsheet for Go syntax and patterns                 |
-| [Learning Go in 2024](https://www.bytesizego.com/blog/learning-golang-2024)             | ByteSizeGo  | Curated guide on how to learn Go effectively                          |
-| [Go for Node.js Developers](https://github.com/miguelmota/golang-for-nodejs-developers) |             | Side-by-side comparison of Go and Node.js patterns                    |
-| [Go Proverbs](https://go-proverbs.github.io/)                                           | Rob Pike    | Go proverbs — philosophy behind Go's design                           |
+| Resource                                                                                                                 | Author      | Description                                                           |
+| ------------------------------------------------------------------------------------------------------------------------ | ----------- | --------------------------------------------------------------------- |
+| [Go Documentation](https://go.dev/doc/)                                                                                  | Go Team     | Official documentation hub — tutorials, references, and guides        |
+| [Go by Example](https://gobyexample.com/)                                                                                |             | Hands-on introduction to Go with annotated code examples              |
+| [Effective Go](https://go.dev/doc/effective_go)                                                                          | Go Team     | Official guide to writing clear, idiomatic Go code                    |
+| [Go Tour (Ardanlabs)](https://tour.ardanlabs.com/tour/eng/list)                                                          | Ardanlabs   | Interactive tour covering Go fundamentals with exercises              |
+| [Practical Go Lessons](https://www.practical-go-lessons.com/)                                                            |             | Free online book with 41 chapters covering Go from basics to advanced |
+| [Go Roadmap](https://roadmap.sh/golang)                                                                                  | roadmap.sh  | Step-by-step learning path for Go developers                          |
+| [YourBasic Go](https://yourbasic.org/golang/)                                                                            |             | Collection of concise Go tutorials and best practices                 |
+| [100 Go Mistakes](https://100go.co/)                                                                                     |             | Common Go mistakes and how to avoid them (companion site to the book) |
+| [Go Cheatsheet](https://devhints.io/go)                                                                                  | devhints.io | Quick reference cheatsheet for Go syntax and patterns                 |
+| [Learning Go in 2024](https://www.bytesizego.com/blog/learning-golang-2024)                                              | ByteSizeGo  | Curated guide on how to learn Go effectively                          |
+| [Go for Node.js Developers](https://github.com/miguelmota/golang-for-nodejs-developers)                                  |             | Side-by-side comparison of Go and Node.js patterns                    |
+| [Go Proverbs](https://go-proverbs.github.io/)                                                                            | Rob Pike    | Go proverbs — philosophy behind Go's design                           |
+| [Go Exercises](https://github.com/bregman-arie/go-exercises)                                                             |             | Practice exercises for learning Go fundamentals                       |
+| [Go Gotchas & Common Mistakes](https://github.com/YanhaoYang/gotchas-and-common-mistakes-in-go-golang/tree/master/files) |             | Curated list of Go gotchas and common pitfalls                        |
 
 ## Official Go Blog
 
@@ -72,11 +74,12 @@
 
 ## Concurrency & Synchronization
 
-| Resource                                                                                        | Author                | Description                                                   |
-| ----------------------------------------------------------------------------------------------- | --------------------- | ------------------------------------------------------------- |
-| [Production Concurrency](https://storj.dev/blog/production-concurrency)                         | Storj                 | Real-world concurrency patterns from Storj production systems |
-| [Synchronization Primitives](https://hackernoon.com/mastering-synchronization-primitives-in-go) | HackerNoon (platform) | Mastering mutexes, channels, and sync primitives in Go        |
-| [Go Scheduling (Part 1)](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html)    | Ardanlabs             | OS scheduler, Go scheduler, and goroutine mechanics explained |
+| Resource                                                                                        | Author                | Description                                                     |
+| ----------------------------------------------------------------------------------------------- | --------------------- | --------------------------------------------------------------- |
+| [Production Concurrency](https://storj.dev/blog/production-concurrency)                         | Storj                 | Real-world concurrency patterns from Storj production systems   |
+| [Synchronization Primitives](https://hackernoon.com/mastering-synchronization-primitives-in-go) | HackerNoon (platform) | Mastering mutexes, channels, and sync primitives in Go          |
+| [Go Scheduling (Part 1)](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html)    | Ardanlabs             | OS scheduler, Go scheduler, and goroutine mechanics explained   |
+| [Go Concurrency Patterns](https://github.com/lotusirous/go-concurrency-patterns)                |                       | Collection of common Go concurrency patterns with code examples |
 
 ## Testing
 
@@ -106,12 +109,14 @@
 
 ## Architecture & Patterns
 
-| Resource                                                                                                                                       | Author           | Description                                                    |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | -------------------------------------------------------------- |
-| [Saga Pattern in Go](https://blog.devgenius.io/saga-pattern-in-go-building-resilient-distributed-transactions-with-orchestration-19d9746d8b85) | DevGenius        | Building resilient distributed transactions with orchestration |
-| [Design Patterns in Go](https://refactoring.guru/design-patterns/go)                                                                           | Refactoring Guru | Classic design patterns with Go implementations and examples   |
-| [Microservices Patterns](https://microservices.io/patterns/microservices.html)                                                                 |                  | Pattern catalog for microservice architecture                  |
-| [The Twelve-Factor App](https://12factor.net/)                                                                                                 | Heroku           | Methodology for building modern, scalable, cloud-native apps   |
+| Resource                                                                                                                                       | Author           | Description                                                               |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------------------------- |
+| [Saga Pattern in Go](https://blog.devgenius.io/saga-pattern-in-go-building-resilient-distributed-transactions-with-orchestration-19d9746d8b85) | DevGenius        | Building resilient distributed transactions with orchestration            |
+| [Design Patterns in Go](https://refactoring.guru/design-patterns/go)                                                                           | Refactoring Guru | Classic design patterns with Go implementations and examples              |
+| [Microservices Patterns](https://microservices.io/patterns/microservices.html)                                                                 |                  | Pattern catalog for microservice architecture                             |
+| [The Twelve-Factor App](https://12factor.net/)                                                                                                 | Heroku           | Methodology for building modern, scalable, cloud-native apps              |
+| [Go at Google: Language Design in the Service of Software Engineering](https://go.dev/talks/2012/splash.article)                               | Rob Pike         | Pike's seminal essay on Go's design rationale and engineering motivations |
+| [Go Design Patterns (senghoo)](https://github.com/senghoo/golang-design-pattern)                                                               |                  | All 23 GoF patterns implemented in Go (README in Chinese)                 |
 
 ## Go Runtime Source Code
 
@@ -123,18 +128,21 @@
 
 ## Tooling
 
-| Resource                                                                 | Author   | Description                                                         |
-| ------------------------------------------------------------------------ | -------- | ------------------------------------------------------------------- |
-| [golangci-lint](https://golangci-lint.run/docs/welcome/)                 | golangci | Aggregated Go linter — fast, configurable, supports 100+ linters    |
-| [golangci-lint Config](https://github.com/maratori/golangci-lint-config) | maratori | Well-documented starting point for a detailed golangci-lint config  |
-| [Compiler Explorer](https://godbolt.org/)                                |          | Online tool to see Go assembly output and compare compiler behavior |
+| Resource                                                                                    | Author   | Description                                                              |
+| ------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------ |
+| [golangci-lint](https://golangci-lint.run/docs/welcome/)                                    | golangci | Aggregated Go linter — fast, configurable, supports 100+ linters         |
+| [golangci-lint Config](https://github.com/maratori/golangci-lint-config)                    | maratori | Well-documented starting point for a detailed golangci-lint config       |
+| [Compiler Explorer](https://godbolt.org/)                                                   |          | Online tool to see Go assembly output and compare compiler behavior      |
+| [golangci-lint Config Examples](https://github.com/ccoVeille/golangci-lint-config-examples) |          | Curated examples of golangci-lint configurations for different scenarios |
 
 ## Style Guides
 
-| Resource                                                        | Author | Description                                                                |
-| --------------------------------------------------------------- | ------ | -------------------------------------------------------------------------- |
-| [Google Go Style Guide](https://google.github.io/styleguide/go) | Google | Official Go style guide — decisions, best practices, and review guidelines |
-| [Uber Go Style Guide](https://github.com/uber-go/guide)         | Uber   | Uber's Go coding conventions and patterns                                  |
+| Resource                                                                                         | Author      | Description                                                                |
+| ------------------------------------------------------------------------------------------------ | ----------- | -------------------------------------------------------------------------- |
+| [Google Go Style Guide](https://google.github.io/styleguide/go)                                  | Google      | Official Go style guide — decisions, best practices, and review guidelines |
+| [Uber Go Style Guide](https://github.com/uber-go/guide)                                          | Uber        | Uber's Go coding conventions and patterns                                  |
+| [CockroachDB Go Style Guide](https://github.com/cockroachdb/cockroach/blob/master/docs/style.md) | CockroachDB | CockroachDB's internal Go style guide — naming, errors, testing, comments  |
+| [Go Code Review Comments](https://go.dev/wiki/CodeReviewComments)                                | Go Team     | Official collection of common comments made during Go code reviews         |
 
 ## Dave Cheney
 
@@ -211,10 +219,12 @@
 
 ## Awesome Lists
 
-| Resource                              | Description                                            |
-| ------------------------------------- | ------------------------------------------------------ |
-| [Awesome Go](https://awesome-go.com/) | Curated list of Go frameworks, libraries, and software |
-| [Go LibHunt](https://go.libhunt.com/) | Go libraries and tools discovery platform              |
+| Resource                                                             | Description                                                  |
+| -------------------------------------------------------------------- | ------------------------------------------------------------ |
+| [Awesome Go](https://awesome-go.com/)                                | Curated list of Go frameworks, libraries, and software       |
+| [Go LibHunt](https://go.libhunt.com/)                                | Go libraries and tools discovery platform                    |
+| [Gopher Reading List](https://github.com/enocom/gopher-reading-list) | Curated reading list of Go articles, talks, and resources    |
+| [Go Wiki: Articles](https://go.dev/wiki/Articles)                    | Official Go wiki index of recommended articles and tutorials |
 
 ## Example Repositories
 

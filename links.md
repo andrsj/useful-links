@@ -78,10 +78,12 @@
 
 ## DevOps & Docker
 
-| Resource                                                                                           | Author      | Description                                            |
-| -------------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------------------ |
-| [Docker Compose Cheat Sheet](https://devopscycle.com/blog/the-ultimate-docker-compose-cheat-sheet) | DevOpsCycle | Quick reference for docker-compose syntax and features |
-| [Linode Guides](https://www.linode.com/docs/guides/)                                               | Linode      | Tutorials on Linux, cloud infrastructure, and DevOps   |
+| Resource                                                                                           | Author           | Description                                                                                    |
+| -------------------------------------------------------------------------------------------------- | ---------------- | ---------------------------------------------------------------------------------------------- |
+| [Docker Compose Cheat Sheet](https://devopscycle.com/blog/the-ultimate-docker-compose-cheat-sheet) | DevOpsCycle      | Quick reference for docker-compose syntax and features                                         |
+| [Linode Guides](https://www.linode.com/docs/guides/)                                               | Linode           | Tutorials on Linux, cloud infrastructure, and DevOps                                           |
+| [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)              | Kelsey Hightower | Bootstrap a Kubernetes cluster from scratch — no scripts, no tools, learn the internals        |
+| [DevOps Exercises](https://github.com/bregman-arie/devops-exercises)                               |                  | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes — interview Q&A |
 
 ## Security
 
@@ -92,19 +94,23 @@
 
 ## Code Review & Engineering Culture
 
-| Resource                                                                                            | Author | Description                                                               |
-| --------------------------------------------------------------------------------------------------- | ------ | ------------------------------------------------------------------------- |
-| [Human Code Reviews](https://mtlynch.io/human-code-reviews-1/)                                      |        | How to do code reviews that are effective and humane                      |
-| [Uber Engineering Blog](https://www.uber.com/en-US/blog/engineering/)                               | Uber   | Technical blog covering Uber's engineering challenges and solutions       |
-| [Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html)                | Google | Free digital copy of "Software Engineering at Google" book                |
-| [VictoriaMetrics Story](https://underdogfounders.substack.com/p/victoriametrics-ukrainian-database) |        | Interview with co-founder of VictoriaMetrics — Ukrainian database company |
+| Resource                                                                                            | Author | Description                                                                                      |
+| --------------------------------------------------------------------------------------------------- | ------ | ------------------------------------------------------------------------------------------------ |
+| [Human Code Reviews](https://mtlynch.io/human-code-reviews-1/)                                      |        | How to do code reviews that are effective and humane                                             |
+| [Uber Engineering Blog](https://www.uber.com/en-US/blog/engineering/)                               | Uber   | Technical blog covering Uber's engineering challenges and solutions                              |
+| [Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html)                | Google | Free digital copy of "Software Engineering at Google" book                                       |
+| [Google Code Review: Reviewer Guide](https://google.github.io/eng-practices/review/reviewer/)       | Google | Google's guide for reviewers — what to look for, how to navigate CLs, speed                      |
+| [Google Code Review: Developer Guide](https://google.github.io/eng-practices/review/developer/)     | Google | Google's guide for CL authors — writing good descriptions, small CLs, handling reviewer comments |
+| [VictoriaMetrics Story](https://underdogfounders.substack.com/p/victoriametrics-ukrainian-database) |        | Interview with co-founder of VictoriaMetrics — Ukrainian database company                        |
 
 ## SRE & System Design
 
-| Resource                                                            | Author  | Description                                                                    |
-| ------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------ |
-| [Google SRE Books](https://sre.google/books/)                       | Google  | Free online SRE books from Google — SRE, Workbook, and Building Secure Systems |
-| [System Design Course](https://books.dwf.dev/docs/system-design/c0) | dwf.dev | Free system design fundamentals course                                         |
+| Resource                                                                  | Author     | Description                                                                    |
+| ------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------ |
+| [Google SRE Books](https://sre.google/books/)                             | Google     | Free online SRE books from Google — SRE, Workbook, and Building Secure Systems |
+| [System Design Course](https://books.dwf.dev/docs/system-design/c0)       | dwf.dev    | Free system design fundamentals course                                         |
+| [System Design Primer](https://github.com/karanpratapsingh/system-design) |            | Comprehensive system design notes and resources                                |
+| [System Design 101](https://github.com/ByteByteGoHq/system-design-101)    | ByteByteGo | Visual explanations of system design concepts and architectures                |
 
 ## Linux & OS
 
@@ -149,23 +155,24 @@
 
 ## Awesome Lists
 
-| Resource                                                                             | Stars | Description                                             |
-| ------------------------------------------------------------------------------------ | ----- | ------------------------------------------------------- |
-| [Awesome](https://github.com/sindresorhus/awesome)                                   | 350k+ | Meta-list of awesome lists for all topics               |
-| [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)       | 283k+ | Self-hosted software alternatives                       |
-| [Awesome Python](https://github.com/vinta/awesome-python)                            | 289k+ | Curated list of Python frameworks, libraries, and tools |
-| [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) | 72k+  | ML frameworks, libraries, and software                  |
-| [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)                  | 34k+  | JavaScript libraries, resources, and tools              |
-| [Awesome React](https://github.com/enaqx/awesome-react)                              | 72k+  | React ecosystem resources and libraries                 |
-| [Awesome Vue](https://github.com/vuejs/awesome-vue)                                  | 73k+  | Vue.js components, libraries, and resources             |
-| [Awesome Security](https://github.com/sbilly/awesome-security)                       | 14k+  | Security tools, resources, and references               |
-| [Awesome Big Data](https://github.com/oxnr/awesome-bigdata)                          | 14k+  | Big data frameworks, tools, and resources               |
-| [Awesome Android](https://github.com/JStumpp/awesome-android)                        | 12k+  | Android libraries, tools, and resources                 |
-| [Awesome iOS](https://github.com/vsouza/awesome-ios)                                 | 51k+  | iOS frameworks, libraries, and tools                    |
-| [Awesome Design](https://github.com/gztchan/awesome-design)                          | 16k+  | Design tools, resources, and inspiration                |
-| [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)               | 33k+  | Curated list of awesome lists                           |
-| [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software)   |       | Collection of Linux applications and tools              |
-| [Awesome Linux](https://awesomelinux.com/)                                           |       | Linux resources, tutorials, and news                    |
-| [Awesome DevOps](https://github.com/wmariuss/awesome-devops)                         |       | DevOps tools, resources, and best practices             |
-| [Awesome DevOps (alt)](https://github.com/awesome-soft/awesome-devops)               |       | Another curated DevOps resources list                   |
-| [Awesome Web Development](https://github.com/nepaul/awesome-web-development)         |       | Web development resources and tools                     |
+| Resource                                                                             | Stars | Description                                                        |
+| ------------------------------------------------------------------------------------ | ----- | ------------------------------------------------------------------ |
+| [Awesome](https://github.com/sindresorhus/awesome)                                   | 350k+ | Meta-list of awesome lists for all topics                          |
+| [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)       | 283k+ | Self-hosted software alternatives                                  |
+| [Awesome Python](https://github.com/vinta/awesome-python)                            | 289k+ | Curated list of Python frameworks, libraries, and tools            |
+| [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) | 72k+  | ML frameworks, libraries, and software                             |
+| [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)                  | 34k+  | JavaScript libraries, resources, and tools                         |
+| [Awesome React](https://github.com/enaqx/awesome-react)                              | 72k+  | React ecosystem resources and libraries                            |
+| [Awesome Vue](https://github.com/vuejs/awesome-vue)                                  | 73k+  | Vue.js components, libraries, and resources                        |
+| [Awesome Security](https://github.com/sbilly/awesome-security)                       | 14k+  | Security tools, resources, and references                          |
+| [Awesome Big Data](https://github.com/oxnr/awesome-bigdata)                          | 14k+  | Big data frameworks, tools, and resources                          |
+| [Awesome Android](https://github.com/JStumpp/awesome-android)                        | 12k+  | Android libraries, tools, and resources                            |
+| [Awesome iOS](https://github.com/vsouza/awesome-ios)                                 | 51k+  | iOS frameworks, libraries, and tools                               |
+| [Awesome Design](https://github.com/gztchan/awesome-design)                          | 16k+  | Design tools, resources, and inspiration                           |
+| [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)               | 33k+  | Curated list of awesome lists                                      |
+| [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software)   |       | Collection of Linux applications and tools                         |
+| [Awesome Linux](https://awesomelinux.com/)                                           |       | Linux resources, tutorials, and news                               |
+| [Awesome DevOps](https://github.com/wmariuss/awesome-devops)                         |       | DevOps tools, resources, and best practices                        |
+| [Awesome DevOps (alt)](https://github.com/awesome-soft/awesome-devops)               |       | Another curated DevOps resources list                              |
+| [Awesome Web Development](https://github.com/nepaul/awesome-web-development)         |       | Web development resources and tools                                |
+| [Professional Programming](https://github.com/charlax/professional-programming)      | 50k+  | Curated reading list of essential SWE essays, books, and resources |
