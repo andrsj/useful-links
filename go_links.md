@@ -44,6 +44,9 @@
 | [Go Exercises](https://github.com/bregman-arie/go-exercises)                                                             |             | Practice exercises for learning Go fundamentals                       |
 | [Go Gotchas & Common Mistakes](https://github.com/YanhaoYang/gotchas-and-common-mistakes-in-go-golang/tree/master/files) |             | Curated list of Go gotchas and common pitfalls                        |
 
+> [!TIP]
+> Claude Code skill for reviewing Go code against the Go Proverbs: [andrsj/go-proverbs-review-skill](https://github.com/andrsj/go-proverbs-review-skill)
+
 ## Official Go Blog
 
 | Resource                                                                 | Description                                                                |
@@ -143,6 +146,9 @@
 | [Uber Go Style Guide](https://github.com/uber-go/guide)                                          | Uber        | Uber's Go coding conventions and patterns                                  |
 | [CockroachDB Go Style Guide](https://github.com/cockroachdb/cockroach/blob/master/docs/style.md) | CockroachDB | CockroachDB's internal Go style guide — naming, errors, testing, comments  |
 | [Go Code Review Comments](https://go.dev/wiki/CodeReviewComments)                                | Go Team     | Official collection of common comments made during Go code reviews         |
+
+> [!TIP]
+> Claude Code skill for reviewing Go code against the Google Go Style Guide (Guide, Decisions, Best Practices): [andrsj/google-go-styleguide](https://github.com/andrsj/google-go-styleguide)
 
 ## Dave Cheney
 
